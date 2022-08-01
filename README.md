@@ -1,4 +1,3 @@
-# Flunty bio
-for bio.flunty.xyz
+# bio.flunty.xyz
 
 idk ehy im making this
