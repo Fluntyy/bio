@@ -1,6 +1,7 @@
 body, html {
-    background-image: url("background.png");
     font-family: 'Montserrat', sans-serif;
+    margin: 0;
+    padding: 0;
     height: 100%;
 	background-repeat: no-repeat;
 	background-position: center;
@@ -11,6 +12,14 @@ body, html {
     -moz-user-select: none;
     -ms-user-select: none;
     user-select: none;
+}
+
+.background {
+    background-image: url('/background.png');
+    background-size: contain;
+    background-repeat: no-repeat;
+    height: 100vh;
+
 }
 
 .header {
